@@ -35,4 +35,42 @@
 - ```rmdir -R dir``` remove all subdirectory
 - ```rm -i file``` prompt base Y or N 
 - ```rm -f file``` 
-- ```rm -rf /
+- ```rm -rf /``` delete everthing
+- ```cp oldfile newfile```
+- ```cp -R dir1 dir2``` to copy folder
+- ```mv oldfile newfile``` rename also can be done
+- ```mkdir 'my dir'``` to give space between file name
+- ```rmdir "my cat"``` 
+- ```history```
+- ```history -c``` to delete history
+- ```cat file1 file2``` to read multiple file from l to r
+- ```which cp``` to get absolute path
+- ```help cd``` to get detail of cd
+- ```man cp``` to get manual
+- ```man cd``` 
+- ```whatis cp``` to get brief of cp
+- ```ifconfig``` linux and ```ipconfig``` windows
+- ```date;time``` ';' it is for sepration not termination
+- ```alias dat="date"``` it create a command dat which perform date operaton _*_
+### Shortcut key
+
+- **CTRL + A** move to very beggining of line.
+- **CTRL + D** to remove next char
+- **CTRL + E** move to last element
+- **CTRL + F** move one char forward
+- **CTRL + B** move one char backward
+- **ALT + U** upper case
+- **ALT + L** Lower case
+- **CTRL + U** cut from right to left
+- **CTRL + V** paste
+- **clear or CTRL + L**
+
+### Text editior
+
+- ```gedit filename```
+- ```nano filename```
+- ```vi filename```
+- ```vim filename``` advance vi
+- **CTRL + O** save 
+- **CTRL + X** exit
+- 
