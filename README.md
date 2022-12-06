@@ -8,10 +8,16 @@
 - **(.)** it represent current directory
 - **(..)** it represent parent direcotry
 - Path
-  - Absolute **-:** start from root ~
-  - Relative **-:** start from the current working dir /
-  - CTRL + C-: kill process
+  - Absolute **-:** start from root ```~```
+  - Relative **-:** start from the current working dir ```/```
+  - ```CTRL + C```-: kill process
 
+- Types of Linux Command
+  - Executable program which is in bin/userbin. example-: cp,wc
+  - Shell buttons built in shell example-: cd,mv
+  - Shell Scripts files that contains codes
+  - Alias command that we can define by our own like example given in last commands section below
+  
 ### Commands
 - ```pwd``` **print working directory** gives the absolute path from the root 
 - ```date``` 
@@ -52,6 +58,7 @@
 - ```ifconfig``` linux and ```ipconfig``` windows
 - ```date;time``` ';' it is for sepration not termination
 - ```alias dat="date"``` it create a command dat which perform date operaton _*_
+
 ### Shortcut key
 
 - **CTRL + A** move to very beggining of line.
@@ -73,4 +80,4 @@
 - ```vim filename``` advance vi
 - **CTRL + O** save 
 - **CTRL + X** exit
-- 
+
